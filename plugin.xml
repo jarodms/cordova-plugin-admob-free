@@ -26,7 +26,7 @@
     </js-module>
 
     <dependency id="cordova-promise-polyfill" version="~0.0.2" />
-    <dependency url="https://github.com/jarodms/cordova-admob-sdk" version="~1.0.0" />
+    <dependency id="cordova-admob-sdk" url="https://github.com/jarodms/cordova-admob-sdk" version="~1.0.0" />
 
     <platform name="android">
         <preference name="ADMOB_APP_ID" default=""/>
