@@ -4,7 +4,7 @@
     <description>
         A sample cordova-plugin-admob-free application.
     </description>
-    <author email="jarodms@users.noreply.github.com" href="https://github.com/jarodms/cordova-plugin-admob-free">                                                                    
+    <author email="jarodms@users.noreply.github.com" href="https://github.com/jarodms/cordova-plugin-admob-free">
         JarodMS
     </author>
     <content src="index.html" />
